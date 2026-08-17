@@ -1,2 +1,3 @@
 # RELM
-TBA
+
+To democratize the great philosophizing minds.
